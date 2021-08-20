@@ -8,3 +8,6 @@ if __name__ == '__middlewares__':
 
 def setup(dp):
     return None
+
+def shutdown(dp):
+    return None
