@@ -10,3 +10,6 @@ BOT_TOKEN = env.str("BOT_TOKEN")
 ADMINS = env.list("ADMINS")
 # Тоже str, но для айпи адреса хоста
 #IP = env.str("ip")
+
+LINK_THIS = env.str("LINK_THIS")
+LINK_THEN = env.str("LINK_THEN")
